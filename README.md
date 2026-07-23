@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm Shourya Basu! 👋
+## Hi, I'm Shourya Basu! 👋
 
 I'm a high school researcher interested in **applied mathematics, data science, computational physics, and almost everything else Math and Computers!**.
 
