@@ -1,6 +1,6 @@
 ## Hi, I'm Shourya Basu! 👋
 
-I'm a high school researcher interested in **applied mathematics, data science, computational physics, and almost everything else Math and Computers!**.
+I'm a high school researcher interested in **applied mathematics, data science, computational physics, and almost everything else related to Math and Computers!**.
 
 ### 🔬 Featured Work & Research
 * **Geopolitical Game Theory:** Modeling strategic payoffs in international relations.
