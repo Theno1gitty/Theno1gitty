@@ -7,5 +7,11 @@ I'm a high school researcher interested in **applied mathematics, data science, 
 * **Physics Simulations:** Building 2D kinematic trajectory engines in Python.
 * **Sports Analytics:** Quantitative modeling of football event metrics and goal trends.
 
+### Projects in progress:
+* Virality tracker and misinformation restrainer
+* IMDb Movie Trends and Rating Predictor
+
 **Tech Stack:** Python, NumPy, Pandas, Matplotlib, SciPy, Jupyter/Colab
+
+Note: All of my projects are created in Google Colab
 
