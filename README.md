@@ -13,5 +13,7 @@ I'm a high school researcher interested in **applied mathematics, data science, 
 
 **Tech Stack:** Python, NumPy, Pandas, Matplotlib, SciPy, Jupyter/Colab
 
+**My website:** https://www.the-totient-quotient.net/
+
 Note: All of my projects are created in Google Colab
 
